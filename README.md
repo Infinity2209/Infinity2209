@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ananta Nag</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=infinity2209&label=Profile%20views&color=0e75b6&style=flat" alt="infinity2209" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=infinity2209" alt="infinity2209" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/anantanag917487" target="blank"><img src="https://img.shields.io/twitter/follow/anantanag917487?logo=twitter&style=for-the-badge" alt="anantanag917487" /></a> </p>
-
 - 🔭 I’m currently working on **Intelligent AWS applicationtion**
 
 - 🌱 I’m currently learning **Next.js, Android Development**
@@ -78,3 +72,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=infinity2209&show_icons=true&locale=en" alt="infinity2209" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=infinity2209&" alt="infinity2209" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=infinity2209" alt="infinity2209" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/anantanag917487" target="blank"><img src="https://img.shields.io/twitter/follow/anantanag917487?logo=twitter&style=for-the-badge" alt="anantanag917487" /></a> </p>
