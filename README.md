@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Infinity2209](https://github.com/Infinity2209)
 
-- 📝 I regularly write articles on [https://anantanag.netlify.app/](https://anantanag.netlify.app/)
-
 - 💬 Ask me about **React.js,HTML-CSS-JavaScript,DSA,AWS,C programming,Java,DeOps**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ananta-nag-126053263/**
